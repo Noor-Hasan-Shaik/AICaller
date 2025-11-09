@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Connect>
+        <Stream url="wss://excited-alpaca-smart.ngrok-free.app/api/ws" />
+    </Connect>
+    <!-- Keep the call active -->
+    <Pause length="3600"/>
+</Response> 
